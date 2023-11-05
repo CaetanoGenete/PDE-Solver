@@ -37,3 +37,6 @@
 # project folders
 /build/
 /deps/
+
+# cmake
+CMakeUserPresets.json
